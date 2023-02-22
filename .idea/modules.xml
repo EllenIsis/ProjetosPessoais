@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Estudos/Estudos.iml" filepath="$PROJECT_DIR$/Estudos/Estudos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ProjetosPessoais.iml" filepath="$PROJECT_DIR$/.idea/ProjetosPessoais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estudos/Udemy/Java/EstudandoMetodos/calculosdeumretangulo/calculosdeumretangulo.iml" filepath="$PROJECT_DIR$/Estudos/Udemy/Java/EstudandoMetodos/calculosdeumretangulo/calculosdeumretangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estudos/Udemy/Java/EstudandoMetodos/controleestoque/controleestoque.iml" filepath="$PROJECT_DIR$/Estudos/Udemy/Java/EstudandoMetodos/controleestoque/controleestoque.iml" />
     </modules>
   </component>
