@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c691a3da-b135-490f-b70c-2a4f86f827fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/metodosnapropriaclassedoprograma/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudandoMetodos/calculodenotadeumaluno/calculodenotadeumaluno.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../EstudandoMetodos/calculodenotadeumaluno/calculodenotadeumaluno.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudandoMetodos/calculonovosalario/calculonovosalario.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../EstudandoMetodos/calculonovosalario/calculonovosalario.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2M6cprF0tM7hHK897abgP3nmQtJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/ProjetoPessoal/ProjetosPessoais/Estudos/Udemy/Java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MembrosEstaticos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MembrosEstaticos" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c691a3da-b135-490f-b70c-2a4f86f827fb" name="Changes" comment="" />
+      <created>1677091658385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677091658385</updated>
+    </task>
+    <servers />
+  </component>
+</project>

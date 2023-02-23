@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudandoMetodos/calculodenotadeumaluno/calculodenotadeumaluno.iml" filepath="$PROJECT_DIR$/EstudandoMetodos/calculodenotadeumaluno/calculodenotadeumaluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudandoMetodos/calculonovosalario/calculonovosalario.iml" filepath="$PROJECT_DIR$/EstudandoMetodos/calculonovosalario/calculonovosalario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudandoMetodos/calculosdeumretangulo/calculosdeumretangulo.iml" filepath="$PROJECT_DIR$/EstudandoMetodos/calculosdeumretangulo/calculosdeumretangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstudandoMetodos/controleestoque/controleestoque.iml" filepath="$PROJECT_DIR$/EstudandoMetodos/controleestoque/controleestoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MembrosEstaticos/metodosnapropriaclassedoprograma/metodosnapropriaclassedoprograma.iml" filepath="$PROJECT_DIR$/MembrosEstaticos/metodosnapropriaclassedoprograma/metodosnapropriaclassedoprograma.iml" />
+    </modules>
+  </component>
+</project>
