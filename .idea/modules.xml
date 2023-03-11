@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Estudos/Faculdade/Java/Atributos/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/Estudos/Faculdade/Java/Atributos/ContaBancaria/ContaBancaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estudos/Estudos.iml" filepath="$PROJECT_DIR$/Estudos/Estudos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estudos/Faculdade/Java/Atributos/ExemploAtributosdeClasse/ExemploAtributosdeClasse.iml" filepath="$PROJECT_DIR$/Estudos/Faculdade/Java/Atributos/ExemploAtributosdeClasse/ExemploAtributosdeClasse.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ProjetosPessoais.iml" filepath="$PROJECT_DIR$/.idea/ProjetosPessoais.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estudos/Udemy/Java/EstudandoMetodos/calculosdeumretangulo/calculosdeumretangulo.iml" filepath="$PROJECT_DIR$/Estudos/Udemy/Java/EstudandoMetodos/calculosdeumretangulo/calculosdeumretangulo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estudos/Udemy/Java/EstudandoMetodos/controleestoque/controleestoque.iml" filepath="$PROJECT_DIR$/Estudos/Udemy/Java/EstudandoMetodos/controleestoque/controleestoque.iml" />
